@@ -11,7 +11,7 @@
 		</File>
     </Appenders>
     <Loggers>
-		<Logger name="mate" level="info" additivity="false">
+		<Logger name="taxi" level="info" additivity="false">
 			<AppenderRef ref="LogToConsole"/>
 			<AppenderRef ref="LogToFile"/>
 		</Logger>
